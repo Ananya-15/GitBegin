@@ -2,7 +2,7 @@
 
  double func(int i, int n) {
  double alpha = (double)i / double(n);
- return pow(sin(alpha), 2);
+ return pow(sin(alph), 2);
  }
 
  int main() {
